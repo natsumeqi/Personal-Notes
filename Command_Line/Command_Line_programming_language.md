@@ -1,14 +1,15 @@
 ##ruby 
 
 irb 
-
-require "file_path_name"
+require "file_path_name" 
 
 
 
 ##prolog
 
-consult ("file_path_name")
+swipl
+consult ("file_path_name").
+trace.
 
 
 
@@ -20,6 +21,12 @@ i  esc wp
 
 
 gcc -Wall -ggdb -o try try.c
+
+./try
+
+
+
+
 
 
 
