@@ -1,10 +1,4 @@
-# Commend line
-#Code
-
-linux:
-ssh z_yanqi@login.encs.concordia.ca
-lynx http:……
-
+# Commend_line_GIT
 
 
 …or create a new repository on the command line
@@ -19,9 +13,3 @@ git push -u origin master
 git remote add origin git@github.com:natsumeqi/COMP249-Java.git
 git push -u origin master
 
-…or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-
-
-
-pwd - print working directory
