@@ -1,9 +1,0 @@
-#book
-_book
-.DS_Store
-
-#my configurations
-index.html
-_index.html_backup
-yulib.config
-_yulib.resource

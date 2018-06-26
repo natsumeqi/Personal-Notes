@@ -1,8 +1,8 @@
-#book
+*~
 _book
 .DS_Store
 
-#my configurations
+# my configurations
 index.html
 _index.html_backup
 yulib.config
