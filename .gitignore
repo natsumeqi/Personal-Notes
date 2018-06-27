@@ -2,9 +2,10 @@
 
 # my configurations
 index.html
-_index.html_backup
+index.html_backup/
 yulib.config
-_yulib.resource
+yulib.resource/
+trash/
 
 
 
