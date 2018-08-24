@@ -13,3 +13,22 @@ git push -u origin master
 git remote add origin git@github.com:natsumeqi/COMP249-Java.git
 git push -u origin master
 
+git clone git@github.com:natsumeqi/name.git
+
+
+
+
+
+git checkout -b branch_name
+git fetch
+git pull origin master
+git add . -A
+git commit -m "message"
+git push
+
+
+
+
+
+
+git remote remove origin

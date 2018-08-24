@@ -1,3 +1,7 @@
+
+
+
+
 ##ruby 
 
 irb 
@@ -12,8 +16,6 @@ consult ("file_path_name").
 trace.
 notrace
 nodebug
-
-
 
 ##C
 
